@@ -1,0 +1,70 @@
+﻿body {
+    background-color: white;
+}
+
+.blue { /*Class for setting the color of text blue*/
+    color: blue;
+    font-weight: normal;
+}
+
+#course {
+    font-style: italic;
+    font-weight: normal;
+}
+
+#assn2 { /*Setting the color of Assignment 1 as green by using its id*/
+    color: green;
+    font-weight: normal;
+}
+
+
+
+#bar {
+    fill: red;
+    height: 21px;
+    transition: fill .3s ease;
+    cursor: pointer;
+}
+
+
+#barchart {
+    padding-left: 2cm;
+    padding-top: 2cm;
+}
+
+#controls {
+    padding-left: 4cm;
+}
+
+
+
+
+
+.initial { /*Setting the properties of Initials using initial class*/
+    stroke: rgb(255,0,0);
+    stroke-width: 5;
+}
+
+.color { /*Setting anpther class for blue stroke*/
+    stroke: blue;
+}
+
+#Submit { /*Giving effects to the submit button by using id: Submit */
+    height: 22px;
+    width: 80px;
+    background-color: gold;
+    color: black;
+    border-radius: 4px;
+    border: none;
+    box-shadow: 0 12px 16px rgba(0,0,0,0.24);
+    font-size: 16px;
+}
+
+#textYear { /*Effects to trxtbox using id: textYear*/
+    border: 2px solid #808080;
+    border-radius: 10px;
+    width: 200px;
+    height: 22px;
+    text-align: center;
+    box-shadow: 0 15px 13px rgba(0,0,0,0.24);
+}
