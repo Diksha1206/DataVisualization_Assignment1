@@ -71,6 +71,7 @@
     <Content Include="a1.css" />
     <Content Include="a1.html" />
     <Content Include="a1.js" />
+    <Content Include="index.html" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
